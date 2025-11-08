@@ -1,0 +1,14 @@
+.info-column{
+    width: 45%;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #f0f0f0;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.map-column{
+    width: 50%;
+    height: 400px; /* Set the height as per your requirement */
+}
