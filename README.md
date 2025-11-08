@@ -25,3 +25,41 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+An interactive **Angular web application** that allows users to highlight any country on an SVG world map and instantly view information such as population, region, and capital city.  
+
+This project demonstrates strong front-end development skills, integration of APIs, and dynamic SVG manipulation using Angular.
+
+---
+
+##Features
+
+Interactive SVG world map  
+Hover or click on a country to highlight it  
+Displays real-time data such as:
+Population
+Capital city
+Region / Subregion
+Flag  
+Built with Angular for fast and reactive UI updates  
+
+---
+
+##Technologies Used
+
+| Category | Tools |
+|-----------|--------|
+| Framework | Angular 16.1.6 |
+| Languages | TypeScript, HTML, SCSS |
+| API | REST Countries API |
+| Visualization | SVG-based map rendering |
+| Build Tools | Angular CLI |
+
+---
+
+## Installation and Setup
+
+### Clone the Repository
+```bash
+git clone https://github.com/jasoncharlesgonzalez-lang/world-map-project.git
+cd world-map-project
